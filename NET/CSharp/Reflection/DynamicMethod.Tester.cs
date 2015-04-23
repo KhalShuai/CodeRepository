@@ -9,7 +9,7 @@ using System.Reflection.Emit;
 using Microsoft.SqlServer.Server;
 
 
-namespace Dynamic.UnitTest
+namespace CSharp.Reflection
 {
     [TestFixture]
     public class DynamicMethodTester
